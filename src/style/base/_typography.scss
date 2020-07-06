@@ -22,6 +22,18 @@ a:hover {
   transition: all 0.3s ease-in-out;
 }
 
+.navbar {
+  position: relative;
+  top: -600px;
+  right: -30%;
+  display: block;
+  padding: 9px 15px;
+}
+
+.navlink a{
+  padding: 0 20px;
+}
+
 .section-title {
   margin: 0px;
   margin-bottom: 4.5rem;
